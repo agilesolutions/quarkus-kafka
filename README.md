@@ -18,6 +18,7 @@ Quarkus Kafka Quickstart
 - export M2_HOME=/usr/local/apache-maven
 - export M2=$M2_HOME/bin
 - export PATH=$M2:$PATH
+- mvn compile quarkus:dev
 
 This project illustrates how you can interact with Apache Kafka using MicroProfile Reactive Messaging.
 
