@@ -13,6 +13,11 @@ Quarkus Kafka Quickstart
 - export PATH=$M2:$PATH
 - cd quarkus-kafka
 - docker-compose up
+- open a new terminal
+- cd quarkus-kafka
+- export M2_HOME=/usr/local/apache-maven
+- export M2=$M2_HOME/bin
+- export PATH=$M2:$PATH
 
 This project illustrates how you can interact with Apache Kafka using MicroProfile Reactive Messaging.
 
