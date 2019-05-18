@@ -3,6 +3,8 @@ Quarkus Kafka Quickstart
 
 [Read all about SmallRye reactive messaging](https://smallrye.io/smallrye-reactive-messaging/)
 
+[Add the reactive messaging examples](https://github.com/smallrye/smallrye-reactive-messaging)
+
 ## before building this demo
 
 - log on to [katacoda k8s course site](https://www.katacoda.com/courses/kubernetes/launch-single-node-cluster)
