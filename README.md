@@ -4,7 +4,7 @@ Quarkus Kafka Quickstart
 ## before building this demo
 
 - log on to [katacoda k8s course site](https://www.katacoda.com/courses/kubernetes/launch-single-node-cluster)
-- git clone https://github.com/agilesolutions/hibernate-panache-resteasy.git
+- git clone https://github.com/agilesolutions/quarkus-kafka.git
 - curl -O http://mirror.easyname.ch/apache/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
 - tar xvf apache-maven-3.6.0-bin.tar.gz
 - mv apache-maven-3.6.0  /usr/local/apache-maven
